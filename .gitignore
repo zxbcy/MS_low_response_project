@@ -1,0 +1,21 @@
+# Project outputs and data (do not commit)
+data/
+results/
+figures/
+
+# Large/derived bioinformatics files
+*.nii
+*.nii.gz
+*.RData
+*.rds
+*.h5ad
+*.csv
+*.tsv
+*.xlsx
+
+# R and system artifacts
+.Rhistory
+.RDataTmp
+.Rproj.user/
+.DS_Store
+Thumbs.db
